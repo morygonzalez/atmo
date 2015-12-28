@@ -40,11 +40,17 @@ CLIENT_SECRET=<YOUR NETATMO APPLICATION CLIENT_SECRET GOES HERE>
 ### 3. Write some code
 
 ```ruby
+require 'atmo'
+
 client = Atmo::Api.new
 if client.authenticate            # Do authentication
   data = client.get_station_data  # Send request to GETSTATIONSDATA API
 end
 ```
+
+See sample application.
+
+[seihin-weather][https://github.com/morygonzalez/seihin-weather]
 
 ## Development
 
