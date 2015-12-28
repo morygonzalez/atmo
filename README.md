@@ -50,7 +50,7 @@ end
 
 See sample application.
 
-[seihin-weather][https://github.com/morygonzalez/seihin-weather]
+[seihin-weather](https://github.com/morygonzalez/seihin-weather)
 
 ## Development
 
