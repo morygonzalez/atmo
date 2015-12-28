@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Netatmo Weather Station Client for Ruby.}
   spec.description   = %q{Very tiny Netatmo Weather Station client for Ruby.}
-  spec.homepage      = "https://github.com/morygonalez/atmo"
+  spec.homepage      = "https://github.com/morygonzalez/atmo"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
